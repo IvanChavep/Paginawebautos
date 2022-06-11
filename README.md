@@ -1,2 +1,2 @@
 # Paginawebautos
-Es una pagina hacerca autos
+Es una pagina acerca autos
